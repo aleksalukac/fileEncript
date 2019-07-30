@@ -1,0 +1,4 @@
+﻿  binaryFileEncriptionWith4LetterAlphabet.cpp
+c:\users\aleksa\source\repos\binaryfileencriptionwith4letteralphabet\binaryfileencriptionwith4letteralphabet\binaryfileencriptionwith4letteralphabet.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\aleksa\source\repos\binaryfileencriptionwith4letteralphabet\binaryfileencriptionwith4letteralphabet\binaryfileencriptionwith4letteralphabet.cpp(26): warning C4715: 'cnvrt': not all control paths return a value
+  binaryFileEncriptionWith4LetterAlphabet.vcxproj -> C:\Users\Aleksa\source\repos\binaryFileEncriptionWith4LetterAlphabet\Debug\binaryFileEncriptionWith4LetterAlphabet.exe
